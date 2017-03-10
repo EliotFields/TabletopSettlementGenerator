@@ -1,0 +1,24 @@
+Folk Healers
+350
+Trained Healers
+1700
+Taverns
+400
+Inns
+2000
+Tailors
+250
+Jewelers
+400
+Carpenters
+550
+Blacksmiths
+1500
+Apothecaries
+2800
+Minor Magic Shops
+2800
+Booksellers
+6500
+Magic Emporiums
+20000
